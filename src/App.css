@@ -1,0 +1,127 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+
+}
+.primary-navbar{
+    background-color: black;
+}
+.bg_dark{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-brand{
+    font-weight: bolder;
+}
+
+.nav-link{
+    font-size: 1rem;
+}
+
+.nav-item{
+    margin-right: 3rem;
+}
+
+.navbartwo{
+    position: relative;
+}
+.owl-nav{
+    position: absolute;
+    top: -55px;
+    left: 1030px;
+}
+
+.owl-carousel .owl-nav button.owl-prev{
+    border: solid;
+    width: 25px;
+}
+
+.owl-carousel .owl-nav button.owl-next{
+    border: solid;
+    width: 25px;
+}
+
+.card-one{
+    margin-right: 2rem;
+    border: none;
+    
+}
+.card-two{
+    border: none;
+    
+}
+
+.card-three{
+    border: none;
+    padding: 2rem;
+}
+
+.singlecol{
+    position: relative;
+}
+
+.img-body{
+    position: absolute;
+    top: 400px;
+    left: 50px;
+}
+
+footer{
+    background-color: darkgrey;
+    list-style: none;
+    
+}
+
+.columncontent li{
+    padding-bottom: 0.8rem;
+}
+
+.endnote{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img p{
+    position: absolute;
+    top: 90%;
+    left: 155px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+img{
+    position: relative;
+}
+
+.product1,
+.product2,
+.product3{
+    display: flex;
+}
+
+.main{
+    display: flex;
+}
+
+.content li{
+    list-style: none;
+    padding-bottom: 0.8rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+.d-grid,
+.heading{
+    padding-left: 0.8rem;
+}
+
+
